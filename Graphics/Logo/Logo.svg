@@ -1,13 +1,1 @@
-<svg height="512" viewBox="0 0 60 60" width="512" xmlns="http://www.w3.org/2000/svg">
-	<g id="Page-1" fill="none" fill-rule="evenodd">
-		<g id="006---Gems" fill-rule="nonzero">
-			<path id="Shape" d="m44 13h-14-14l-7 11 21 27 21-27z" fill="#02818F" />
-			<path id="Shape" d="m23 24h-14l7-11z" fill="#359AA5" />
-			<path id="Shape" d="m51 24h-14l7-11z" fill="#359AA5" />
-			<path id="Shape" d="m44 13-7 11-7-11z" fill="#1B8E9A" />
-			<path id="Shape" d="m30 13-7 11-7-11z" fill="#1B8E9A" />
-			<path id="Shape" d="m37 24h-14l7-11z" fill="#359AA5" />
-			<path id="Shape" d="m37 24-1.56 6-1.3 5.04-4.14 15.96-7-27z" fill="#1B8E9A" />
-		</g>
-	</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 60 60"><g id="Page-1" fill="none" fill-rule="evenodd"><g id="006---Gems" fill-rule="nonzero"><path id="Shape" fill="#02818F" d="m44 13h-14-14l-7 11 21 27 21-27z"/><path id="Shape" fill="#359AA5" d="m23 24h-14l7-11z"/><path id="Shape" fill="#359AA5" d="m51 24h-14l7-11z"/><path id="Shape" fill="#1B8E9A" d="m44 13-7 11-7-11z"/><path id="Shape" fill="#1B8E9A" d="m30 13-7 11-7-11z"/><path id="Shape" fill="#359AA5" d="m37 24h-14l7-11z"/><path id="Shape" fill="#1B8E9A" d="m37 24-1.56 6-1.3 5.04-4.14 15.96-7-27z"/></g></g></svg>
